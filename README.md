@@ -4,7 +4,7 @@
 
 A simple endless shooting game developed using C++ and SDL2.
 
-This repository is for the Capstone project required for completing [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code is base on the Capstone Snake Game Example provided by Udacity.
+This repository is for the Capstone project required for completing [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
 Current state of the program has several features below.
 
