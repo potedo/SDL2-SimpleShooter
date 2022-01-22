@@ -1,5 +1,5 @@
 
-# Project Overview
+# Repository Overview
 <img src="resource/demo.gif" width="400">
 
 A simple endless shooting game developed using C++ and SDL2.
