@@ -138,13 +138,14 @@ This repository contains
 
 Press Space key at title window. Then game starts.
 
-↑↓←→ … Move player
-F … Fire the enemy
+- ↑↓←→ … Move player
+- F … Fire the enemy
 
 # License
 
-BGM / Sound Effect by OtoLogic(CC BY-4.0)
-SDL2 (zlib license)
+- source files are MIT Lisence
+- BGM / Sound Effect by OtoLogic(CC BY-4.0)
+- SDL2 (zlib license)
 
 
 
